@@ -15,6 +15,7 @@
   "license": "GUN",
   "git repository": "https://github.com/Mile922/NodejsMongodbLog",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
     "mongoose": "^6.1.0"
   }
